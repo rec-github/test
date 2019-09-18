@@ -14,3 +14,6 @@ int main(void)
   printf("test\n");
 }
 ```
+
+### usage
+D‚«‚È‚æ‚¤‚Ég‚Á‚Ä‚­‚ê
