@@ -7,4 +7,10 @@ A = list(map(int,input().split()))
 opiu
 ```C
 #include<stdio.h>
+#include<stdlib.h>
+
+int main(void)
+{
+  printf("test\n");
+}
 ```
